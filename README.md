@@ -1,5 +1,5 @@
 # 101pong
-{EPITECH} | First year | Math project
+# {EPITECH} | First year | Math project
 
 Pong, an arcade game developped in 1972 by Ralph Baer (Atari), is the first ever successful video game.
 It was inspired by the very first video game, Tennis for Two, developped in 1958 by William Higinbotham on
