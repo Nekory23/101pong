@@ -12,14 +12,17 @@ See the subject for further details !
 
 ========================
 
-1st semester Maths unit
+### 1st semester Maths unit
 
-Grade : B | Mark : 14.7
+**Grade : B | Mark : 14.7**
+  
+| Category           | Percentage | Tests   | Crash ? |
+|--------------------|------------|---------|---------|
+| Rigor              | 100%       | 10/10   | x       |
+| Vector             | 100%       | 10/10   | x       |
+| Trigonometry       | 0%         | 0/5     | x       |
+| Mathematical rigor | 66.7%      | 4/6     | x       |
+| **End scores**     | **77.4%**  |**24/31**| **No**  |
 
-Score : 77.4%
-  - Rigor               : 100%    --- 10/10
-  - Vector              : 100%    --- 10/10
-  - Trigonometry        : 0%      --- 0/5
-  - Mathematical rigor  : 66.7%   --- 4/6
   
 Beware of -42 Epitech students !!!
